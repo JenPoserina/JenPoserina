@@ -1,6 +1,6 @@
 - 😊 Hi, I’m @JenPoserina
 - 💜 I’m interested in Art and Design
-- 🖥 I’m currently learning UX/UI Design
+- 🖥 I’m a UX/UI Designer learning front end development.
  
 
 <!---
